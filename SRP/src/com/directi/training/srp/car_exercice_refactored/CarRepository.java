@@ -2,7 +2,7 @@ package com.directi.training.srp.car_exercice_refactored;
 
 
 import java.util.*;
-
+// A minimal in-memory repository(Serves as a data access layerr)
 public class CarRepository {
     private final List<Car> carsDb;
 
